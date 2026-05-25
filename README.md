@@ -1,0 +1,1 @@
+[![Java CI with Maven](https://github.com/Ellxnn/Projeto_Calculadora_teste/actions/workflows/maven.yml/badge.svg)](https://github.com/Ellxnn/Projeto_Calculadora_teste/actions/workflows/maven.yml)
